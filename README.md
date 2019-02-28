@@ -1,14 +1,14 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
 
-# Install Oh My ZSH
+# _Install Oh My ZSH_
 
 ## Objective
 
-> Learn why Oh My ZSH is a great developer tool
+* Learn why Oh My ZSH is a great developer tool
 
-> How to install Oh My ZSH
+* How to install Oh My ZSH
 
-> How to use Oh My ZSH
+* How to use Oh My ZSH
 
 ## Why use Oh My ZSH?
 
@@ -16,11 +16,11 @@ When you start a terminal application, whether it be on your server or your loca
 
 One of the most popular shells with web developers is the Z shell, or ZSH. Along with that, we use a ZSH framework named Oh My ZSH.
 
-> Oh My ZSH comes with many tools that can increase your workflow, including but not limited to:
->* Terminal Customization
->* Color Schemes
->* File Tabbing
->* etc.
+Oh My ZSH comes with many tools that can increase your workflow, including but not limited to:
+* Terminal Customization
+* Color Schemes
+* File Tabbing
+* etc.
 
 ## How to install Oh My Zsh!
 First, we will change the default "shell" or terminal environment to use one that is more friendly for developers.
@@ -53,7 +53,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 ## Terminal Customization
 
-Customizing what your terminal looks like is one of the best things you can do. Not only does it make you look like a hardcore coder, but it can greatly improve readability via different colors. It can also improve productivity by displaying important information related to file path, Git status and more!
+Customizing what your terminal looks like is one of the best things you can do. Not only does it make you look like a hardcore coder, but it can greatly improve readability via different colors. It can also improve productivity by displaying important information related to **file path**, **Git branch** and more!
 
 ![Hackerman](hackerman.gif)
 
