@@ -38,6 +38,8 @@ Make it your default shell:
 * Click 'Shell opens with Command (complete path)'
 * Type `/bin/zsh` inside the text field
 
+![Terminal Image](terminal.png)
+
 Log out and login back again to use your new default shell.
 Test that it worked with 
 ```echo $SHELL```
