@@ -55,6 +55,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 Customizing what your terminal looks like is one of the best things you can do. Not only does it make you look like a hardcore coder, but it can greatly improve readability via different colors. It can also improve productivity by displaying important information related to file path, Git status and more!
 
+![Hackerman](hackerman.gif)
+
 ### Color Schemes
 
 To edit the colors or theme:
@@ -71,3 +73,7 @@ Folder and file tabbing works with any terminal command: `cd`, `trash`, `cp`, `o
 
 * Open `Terminal` 
 * Go ahead and type `cd` (note the space after `cd`), and hit the <kbd>Tab</kbd> key twice. You can now use your arrow keys to move over, up and down through the files and folders. To select a folder, hit <kbd>Return</kbd> You can now hit <kbd>Tab</kbd> and <kbd>Tab</kbd> again to discover subdirectories or hit <kbd>Return</kbd> to run the command.
+
+## Additional Resources
+* [Oh My ZSH Docs](https://ohmyz.sh/)
+
