@@ -34,7 +34,7 @@ Verify installation by running `zsh --version`. Expected result: zsh 5.1.1 or mo
 
 Make it your default shell: 
 * Open `Terminal` preferences <kbd>⌘</kbd> <kbd>,</kbd>
-* Click the 'General' Tab
+* Click the `General` Tab
 * Click 'Shell opens with Command (complete path)'
 * Type `/bin/zsh` inside the text field
 
@@ -61,7 +61,7 @@ Customizing what your terminal looks like is one of the best things you can do. 
 
 To edit the colors or theme:
 * Open `Terminal` preferences <kbd>⌘</kbd> <kbd>,</kbd>
-* Click the 'Profiles' Tab
+* Click the `Profiles` Tab
 * Change the colors of the `text` and `background` to your preferred colors
 * You can also select an existing them from the left column
 
