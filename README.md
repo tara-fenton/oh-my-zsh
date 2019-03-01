@@ -40,7 +40,7 @@ Make it your default shell:
 
 ![Terminal Image](terminal.png)
 
-Log out and login back again to use your new default shell.
+Log out and login again to use your new default shell.
 Test that it worked with 
 ```echo $SHELL```
 
