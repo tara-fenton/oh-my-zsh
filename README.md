@@ -18,8 +18,8 @@ One of the most popular shells with web developers is the Z shell, or ZSH. Along
 
 Oh My ZSH comes with many tools that can increase your workflow, including but not limited to:
 * Terminal Customization
-* Color Schemes
 * File Tabbing
+* Color Schemes
 * etc.
 
 ## How to install Oh My Zsh!
@@ -57,14 +57,6 @@ Customizing what your terminal looks like is one of the best things you can do. 
 
 ![Hackerman](hackerman.gif)
 
-### Color Schemes
-
-To edit the colors or theme:
-* Open `Terminal` preferences <kbd>⌘</kbd> <kbd>,</kbd>
-* Click the `Profiles` Tab
-* Change the colors of the `text` and `background` to your preferred colors
-* You can also select an existing them from the left column
-
 ### File Tabbing
 
 Probably one of the most useful features of ZSH is that it enables us to list and tab through files and folders. If you have ever tried to perfectly spell the name of a file, struggled with the case or fought with an impossibly long list of folders with spaces in it, you know the pain and limitations of Bash.
@@ -73,6 +65,14 @@ Folder and file tabbing works with any terminal command: `cd`, `trash`, `cp`, `o
 
 * Open `Terminal` 
 * Go ahead and type `cd` (note the space after `cd`), and hit the <kbd>Tab</kbd> key twice. You can now use your arrow keys to move over, up and down through the files and folders. To select a folder, hit <kbd>Return</kbd> You can now hit <kbd>Tab</kbd> and <kbd>Tab</kbd> again to discover subdirectories or hit <kbd>Return</kbd> to run the command.
+
+### Color Schemes
+
+To edit the colors or theme:
+* Open `Terminal` preferences <kbd>⌘</kbd> <kbd>,</kbd>
+* Click the `Profiles` Tab
+* Change the colors of the `text` and `background` to your preferred colors
+* You can also select an existing them from the left column
 
 ## Additional Resources
 * [Oh My ZSH Docs](https://ohmyz.sh/)
