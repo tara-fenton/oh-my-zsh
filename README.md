@@ -25,7 +25,7 @@ Oh My ZSH comes with many tools that can increase your workflow, including but n
 ## How to install Oh My Zsh!
 First, we will change the default "shell" or terminal environment to use one that is more friendly for developers.
 
-Open the `Terminal` app and type the following two commands (Hit `<Enter>` after each):
+Open the `Terminal` app and type the following two commands (Hit <kbd>Return</kbd> after each):
 ```
 brew install zsh zsh-completions
 ```
