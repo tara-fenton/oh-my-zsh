@@ -41,7 +41,17 @@ Make it your default shell:
 ![Terminal Image](terminal.png)
 
 Log out and login again to use your new default shell.
+
 Test that it worked with 
+```echo $SHELL```
+
+Expected result: /bin/zsh or similar.
+
+If this did not change your default shell, type the following command and hit <kbd>Return</kbd>
+```
+chsh -s /bin/zsh
+```
+Now log out and login once more and test it worked with
 ```echo $SHELL```
 
 Expected result: /bin/zsh or similar.
